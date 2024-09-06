@@ -3,7 +3,7 @@
 ## Soal 1
 Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta!
 
-[Link ke file soal1.dart](soal1.dart)
+[Link ke file jawaban soal 1](soal1.dart)
 
 ## Soal 2
 Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter? Jelaskan!
@@ -13,9 +13,9 @@ Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita mengg
 ## Soal 3
 Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
 
-[Soal 3](P2_P_MOBILE_3C_26_Wahyudi.pdf)
+[Link ke file jawaban soal 3](P2_P_MOBILE_3C_26_Wahyudi.pdf)
 
 ## Soal 4
 Buatlah slide yang berisi penjelasan dan contoh eksekusi kode tentang perbedaan Null Safety dan Late variabel! (Khusus soal ini kelompok berupa link google slide)
 
-[Soal 4](P2_Kelompok6.pdf)
+[Link ke file jawaban soal 4](P2_Kelompok6.pdf)
