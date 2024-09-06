@@ -13,9 +13,9 @@ Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita mengg
 ## Soal 3
 Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
 
-[Link ke file PDF](P2_P_MOBILE_3C_26_Wahyudi.pdf)
+[Soal 3](P2_P_MOBILE_3C_26_Wahyudi.pdf)
 
 ## Soal 4
 Buatlah slide yang berisi penjelasan dan contoh eksekusi kode tentang perbedaan Null Safety dan Late variabel! (Khusus soal ini kelompok berupa link google slide)
 
-[Link ke file PDF](P2_Kelompok6.pdf)
+[Soal 4](P2_Kelompok6.pdf)
