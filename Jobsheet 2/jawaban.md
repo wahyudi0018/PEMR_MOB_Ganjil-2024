@@ -1,3 +1,11 @@
+## Laporan Praktikum
+
+### Nama: Wahyudi  
+### NIM: 2241720018  
+### Kelas: 3C  
+
+---
+
 # Tugas Pemrograman Mobile Jobsheet 2
 
 ## Soal 1
